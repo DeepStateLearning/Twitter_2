@@ -1,0 +1,68 @@
+Word hardsci Cosine Similarity: 1.0
+Word beercatphd Cosine Similarity: 0.9256606
+Word mikesax Cosine Similarity: 0.90502167
+Word siridhyan Cosine Similarity: 0.89970714
+Word ThatotherSir Cosine Similarity: 0.8864534
+Word pittore Cosine Similarity: 0.8832758
+Word RobertGeertsen8 Cosine Similarity: 0.8800076
+Word JoshEngebretson Cosine Similarity: 0.8704543
+Word cricckket Cosine Similarity: 0.8582507
+Word scottfulps Cosine Similarity: 0.8566068
+Word int_ijk Cosine Similarity: 0.8484261
+Word kitsuneflame Cosine Similarity: 0.8402709
+Word suzyhager12 Cosine Similarity: 0.8379697
+Word granex Cosine Similarity: 0.83392763
+Word trifonovg1 Cosine Similarity: 0.832108
+Word leftkish Cosine Similarity: 0.8289391
+Word BigTexasWood Cosine Similarity: 0.82270014
+Word chucklebrryfin Cosine Similarity: 0.81915176
+Word paul_ruscher Cosine Similarity: 0.8119147
+Word pinkpanther2413 Cosine Similarity: 0.8007926
+
+Word ProfessorIsIn Cosine Similarity: 0.9999999
+Word Psychologician Cosine Similarity: 0.9395093
+Word synd_network Cosine Similarity: 0.8866982
+Word xrodolfox Cosine Similarity: 0.88503575
+Word automatonomega Cosine Similarity: 0.86947864
+Word avatarjoshua Cosine Similarity: 0.8662768
+Word dar205 Cosine Similarity: 0.85382724
+Word rolla_weber Cosine Similarity: 0.8480698
+Word TheGistOf Cosine Similarity: 0.84644604
+Word Gwendifyr Cosine Similarity: 0.84397554
+Word fcardoza696 Cosine Similarity: 0.8423271
+Word k_stag Cosine Similarity: 0.8375559
+Word WHarshbarger Cosine Similarity: 0.83235383
+Word kirchnerkarla Cosine Similarity: 0.8280145
+Word dirtyliljohnny Cosine Similarity: 0.8257368
+Word merleweiner Cosine Similarity: 0.82558644
+Word IZ_FNB Cosine Similarity: 0.8188813
+Word Leishalynn Cosine Similarity: 0.81437325
+Word 1bitsquared Cosine Similarity: 0.7998419
+Word AncientRivers Cosine Similarity: 0.79834384
+
+Word UOlacrosse Cosine Similarity: 1.0
+Word aaronalter95 Cosine Similarity: 0.9564745
+Word kennygrinds Cosine Similarity: 0.9468831
+Word OregonBaseball Cosine Similarity: 0.9341601
+Word drpapax2 Cosine Similarity: 0.93175983
+Word IvanFCB124 Cosine Similarity: 0.92555845
+Word DerekTahara Cosine Similarity: 0.9178117
+Word GoTrackTownUSA Cosine Similarity: 0.9169007
+Word DuckTVSports Cosine Similarity: 0.91407675
+Word kenyonyovan21 Cosine Similarity: 0.91030526
+Word NotDucksCoachT Cosine Similarity: 0.9074496
+Word KORE1050Eugene Cosine Similarity: 0.8951529
+Word jbarri88 Cosine Similarity: 0.8944003
+Word OregonSoccer Cosine Similarity: 0.8928453
+Word OregonDuckTix Cosine Similarity: 0.89037526
+Word amhojnar Cosine Similarity: 0.8900395
+Word kruse_isaac Cosine Similarity: 0.8892167
+Word Batmack81 Cosine Similarity: 0.8891419
+Word UOgridirongirl Cosine Similarity: 0.88862205
+Word SkeeleSeth Cosine Similarity: 0.88849
+
+
+
+
+pickle.dump(embeddings, open("accountembeddingsNov21.pickle", "wb"))
+
